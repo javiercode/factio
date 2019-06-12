@@ -1,0 +1,22 @@
+{
+  "name": "air-control",
+  "description": "Sistema de Monitoreo",
+  "main": "index.php",
+  "authors": [
+    "Javier Canqui <javiclaros@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/bower_components"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47"
+  }
+}
